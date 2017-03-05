@@ -17,7 +17,7 @@ const defaultOptions = {
   importBootstrapCSS: true,
   importBootstrapFont: true,
   insertEmberWormholeElementToDom: true,
-  bootstrapVersion: 3
+  bootstrapVersion: 4
 };
 
 const supportedPreprocessors = [
